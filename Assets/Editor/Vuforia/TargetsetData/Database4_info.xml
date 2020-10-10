@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="QCAR_Dataset_config.xsd">
+  <TargetSet version="5.0" toolVersion="4.2.0">
+    <ObjectTarget bbox="0.0000 0.0000 0.0000 0.1425 0.0950 0.0950" captureAppVersion="6.5.0" lastSaved="2020-10-09T08:56:51Z" name="cutter" targetId="6d65a7bbc979475baa9d53c92089de33" version="2.0" />
+    <ObjectTarget bbox="0.0000 0.0000 0.0000 0.1425 0.0950 0.0950" captureAppVersion="6.5.0" lastSaved="2020-10-09T08:18:21Z" name="stapler" targetId="cd4988dcc8a7484a9f89aad7e0feeb2e" version="2.0" />
+    <ObjectTarget bbox="0.0000 0.0000 0.0000 0.1425 0.0950 0.0950" captureAppVersion="6.5.0" lastSaved="2020-10-09T08:37:57Z" name="stempel" targetId="61b132e9b7e846ee9ccb80d5760ee0a9" version="2.0" />
+  </TargetSet>
+</QCARInfo>
